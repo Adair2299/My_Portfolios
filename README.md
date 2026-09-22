@@ -46,7 +46,7 @@ I led a multidisciplinary team in developing the system for detecting:
 
 * **Internal damage** through piezoelectric/ultrasonic sensor signals and machine learning
 * **Surface damage** through computer vision
-* **LAN-based remote control** and **cloud-based remote monitoring and analysing **for steel-structure inspection
+* **LAN-based remote control** and **cloud-based remote monitoring and analysing** for steel-structure inspection
 
 The manual provides an overview of the robot's system architecture, hardware, sensing, software, and inspection capabilities.
 
