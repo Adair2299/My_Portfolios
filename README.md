@@ -11,15 +11,17 @@ This repository contains selected technical materials showcasing my work in **Ma
 
 **PyTorch | Transformer | Self-Attention | NLP | Web Deployment**
 
+**[View Source Code on GitHub](https://github.com/Adair2299/B5c_TinyLLM_3_MiniChatbot)**
+
 A tiny GPT-style language model built from scratch using PyTorch, without pretrained models or external AI APIs. Trained on a constrained vocabulary and a small conversational dataset, the project demonstrates how a Transformer can learn to generate simple English responses with limited computational resources.
 
 ### Interactive Mini GPT
 
 The trained model is deployed as an interactive chatbot website, allowing users to explore basic English conversations within its limited vocabulary.
 
-<img width="960" height="480" alt="Chatbot Demo 2 - good" src="https://github.com/user-attachments/assets/6dd5a990-d655-48b8-8326-b0a8fabc3987" />
-
 **[The website of MiniGPT Chatbot](https://tiny-english-chatbot.onrender.com/)**
+
+<img width="960" height="440" alt="Chatbot Demo 2 - good" src="https://github.com/user-attachments/assets/6dd5a990-d655-48b8-8326-b0a8fabc3987" />
 
 ### Model & Training Data
 
@@ -36,35 +38,6 @@ The visualization shows how the Transformer's internal representations evolve fr
 <img width="1080" height="611" alt="transformer_training_animation_v8_1080p1 (1)" src="https://github.com/user-attachments/assets/5e7038e8-5fd6-4077-a3b2-d118e97f6a4e" />
 
 *An educational, small-scale language model demonstrating end-to-end model development, training, visualization, and deployment.*
-
----
-
-### 1. Deep Learning Model for Piezoelectric Sensor Signals
-
-[**Deep Learning Model for Piezoelectric Sensor Signals.pdf**](https://github.com/Adair2299/My_Portfolios/blob/main/Deep%20Learning%20Model%20for%20Piezoelectric%20Sensor%20Signals.pdf)
-
-A specialized **deep learning architecture for piezoelectric sensor signals**, designed around noise characteristics observed in real-world sensor operating environments.
-
-The project incorporates an **attention mechanism** to improve the model's ability to focus on informative signal regions under noisy conditions.
-
-The document includes:
-
-* Model architecture and methodology
-* Quantitative results on the test set
-* Visualization of model performance
-* Comparison of results **before and after introducing the attention mechanism**
-
----
-
-### 2. Point Cloud Vectorizer
-
-[**Point Cloud Vectorizer Abstract and Demo.pdf**](https://github.com/Adair2299/My_Portfolios/blob/main/Point%20Cloud%20Vectorizer%20Abstract%20and%20Demo.pdf)
-
-A project developed as part of **3D Building Reconstruction Based on Computer Vision and Large Language Models**.
-
-I explored and developed a **point-cloud boundary vectorization and feature extraction tool** for converting geometric information from 3D point clouds into vectorized representations.
-
-The document presents the project's concept, workflow, and demonstration results.
 
 ---
 
@@ -102,6 +75,35 @@ A U-Net-based semantic segmentation model identifies surface corrosion and class
 | Minimum climbing surface diameter | 50 cm |
 
 *Performance specifications are based on laboratory testing of an R&D prototype.*
+
+---
+
+### Deep Learning Model for Piezoelectric Sensor Signals
+
+[**Deep Learning Model for Piezoelectric Sensor Signals.pdf**](https://github.com/Adair2299/My_Portfolios/blob/main/Deep%20Learning%20Model%20for%20Piezoelectric%20Sensor%20Signals.pdf)
+
+A specialized **deep learning architecture for piezoelectric sensor signals**, designed around noise characteristics observed in real-world sensor operating environments.
+
+The project incorporates an **attention mechanism** to improve the model's ability to focus on informative signal regions under noisy conditions.
+
+The document includes:
+
+* Model architecture and methodology
+* Quantitative results on the test set
+* Visualization of model performance
+* Comparison of results **before and after introducing the attention mechanism**
+
+---
+
+### Point Cloud Vectorizer
+
+[**Point Cloud Vectorizer Abstract and Demo.pdf**](https://github.com/Adair2299/My_Portfolios/blob/main/Point%20Cloud%20Vectorizer%20Abstract%20and%20Demo.pdf)
+
+A project developed as part of **3D Building Reconstruction Based on Computer Vision and Large Language Models**.
+
+I explored and developed a **point-cloud boundary vectorization and feature extraction tool** for converting geometric information from 3D point clouds into vectorized representations.
+
+The document presents the project's concept, workflow, and demonstration results.
 
 ---
 
