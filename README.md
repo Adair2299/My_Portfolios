@@ -13,7 +13,7 @@ This repository contains selected technical materials showcasing my work in **Ma
 
 **[View Source Code on GitHub](https://github.com/Adair2299/B5c_TinyLLM_3_MiniChatbot)**
 
-A tiny GPT-style language model built from scratch using PyTorch, without pretrained models or external AI APIs. Trained on a constrained vocabulary and a small conversational dataset, the project demonstrates how a Transformer can learn to generate simple English responses with limited computational resources.
+A tiny GPT-style language model built from scratch using PyTorch, **without pretrained models or external AI API**s. Trained on a constrained vocabulary and a small conversational dataset, the project demonstrates how a Transformer can learn to generate simple English responses with limited computational resources.
 
 ### Interactive Mini GPT
 
